@@ -16,4 +16,4 @@ Proyecto: trabajado desde Udemy - El proyecto viene con una estructura armada en
     - Proyecto de práctica para mejorar skills.
     
 - **Proyecto**:
-    - Buscador de canciones.
+    - Buscador de letras de canciones.
